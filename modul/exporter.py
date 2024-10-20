@@ -19,11 +19,11 @@ class BaseExporter:
 
 class JsonExporter:
     def __init__(self, filePath):
-        self.file = open(filePath, 'w+')
+        self.file = open(filePath, 'w+' , encoding='utf-8' )
         self.data = []
     async def export(self, data):
         self.data.append(data)
     def close(self):
-        dump = json.dumps(self.data, indent=2, ensure_ascii=False)
+        dump = json.dumps(self.data, indent=2, ensure_ascii=False )
         self.file.write(dump)
         self.file.close()
