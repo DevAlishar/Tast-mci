@@ -1,5 +1,6 @@
 import json
 from asgiref.sync import sync_to_async
+from exceptions import ScrapException
 
 adump = sync_to_async(json.dumps)
 
@@ -23,6 +24,6 @@ class JsonExporter:
     async def export(self, data):
         self.data.append(data)
     def close(self):
-        dump = json.dump(self.data)
+        dump = json.dumps(self.data, indent=2, ensure_ascii=False)
         self.file.write(dump)
         self.file.close()
