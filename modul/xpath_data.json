@@ -1,0 +1,842 @@
+{
+    "mahoot-leather.ir": [
+        "//*[@id='productPrice38888']/div/span[2]",
+        "//*[@id='productPrice36656']/div/span[2]"
+    ],
+    "www.technolife.ir": [
+        "//*[@id='__next']/div[3]/main/div/div/article[1]/section[2]/div/div[1]/div/div/div[3]/div[2]/div/div/div/p",
+        "//*[@id='__next']/div[3]/main/div/div/article[1]/section[2]/div/div[1]/div/div/div[3]/div[2]/div[2]/div/div/p"
+    ],
+    "akamcase.com": [
+        "//*[@id='wze997']/div/article/div[3]/div[2]/span",
+        "//*[@id='wze997']/div/article/div[3]/div[2]/span"
+    ],
+    "styleup.ir": [
+        "//*[@id='av-layout-grid-1']/div[1]/div/p/span/bdi",
+        "//*[@id='av-layout-grid-1']/div[1]/div/p/span/bdi"
+    ],
+    "mobofun.ir": [
+        "//*[@id='root']/div/div[3]/div/div[3]/div/div[2]/div[2]/span[3]",
+        "//*[@id='root']/div/div[3]/div/div[3]/div/div[2]/div[2]/span[3]/text()"
+    ],
+    "ghabcenter.ir": [
+        "//*[@id='product-98037']/div[1]/div[2]/div[3]/p[1]/ins/span/bdi/text()",
+        "//*[@id='product-98025']/div[1]/div[2]/div[3]/p[1]/ins/span/bdi/text()"
+    ],
+    "zoombazar.ir": [
+        "//*[@id='product-1247687']/div/div[1]/div[2]/div[3]/p/span/bdi/text()",
+        "//*[@id='product-1296028']/div/div[1]/div[2]/div[3]/p/span/bdi"
+    ],
+    "www.iranketab.ir": [
+        "/html/body/div[3]/div[1]/div[1]/div[2]/div[2]/div/div[1]/ul/li[1]/span[2]",
+        "/html/body/div[3]/div[1]/div[1]/div[2]/div[2]/div/div[1]/ul/li[1]/span[2]"
+    ],
+    "www.gisoom.com": [
+        "/html/body/div[4]/div[3]/a[1]/div/span[3]",
+        "/html/body/div[4]/div[3]/a[1]/div/span[3]"
+    ],
+    "fonishop.com": [
+        "//*[@id='product-108319']/div[1]/div[2]/div/div/div[2]/div[1]/div[3]/span/bdi/text()",
+        "//*[@id='product-130314']/div[1]/div[2]/div/div/div[2]/div[1]/form/div[2]/div[1]/div[2]/span/div/span/bdi/text()"
+    ],
+    "kalane.ir": [
+        "//*[@id='product-223063']/div/section[2]/div/div[3]/div/section/div/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-223023']/div/section[2]/div/div[3]/div/section/div/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "farzadstoree.com": [
+        "//*[@id='product-16274']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-16289']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "ebiano.com": [
+        "//*[@id='product-238464']/div[1]/div[2]/div[2]/div[1]/div[2]/p/ins/span/bdi/text()",
+        "//*[@id='product-240231']/div[1]/div[2]/div[2]/div[1]/form/div/div[1]/div[2]/span/ins/span/bdi/text()"
+    ],
+    "farskala.ir": [
+        "//*[@id='product-1048390']/div/section[1]/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[2]/div/div[2]/div/span/span/bdi/text()",
+        "//*[@id='product-946107']/div/section[1]/div/div[2]/div[2]/div/form/div/div[2]/div[3]/div[2]/div[1]/div[2]/div/span/span/bdi/text()"
+    ],
+    "techinoshop.com": [
+        "//*[@id='product-68976']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-20341']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "moboface.ir": [
+        "/html/body/main/div[1]/div/div[2]/div/div[2]/form/h5/span",
+        "/html/body/main/div[1]/div/div[2]/div/div[2]/form/h5/span"
+    ],
+    "www.30book.com": [
+        "/html/body/div[5]/div/div/div/div/div[2]/div/div/div[3]/h2",
+        "/html/body/div[5]/div/div/div/div/div[2]/div/div/div[3]/h2"
+    ],
+    "mygardshop.com": [
+        "//*[@id='brxe-nrcciw']/div/p/ins/span/bdi/text()",
+        "//*[@id='brxe-nrcciw']/div[1]/p/ins/span/bdi/text()"
+    ],
+    "mr-rad.ir": [
+        "//*[@id='product-33765']/div[2]/div[2]/div[2]/div/form/div[2]/div/div[2]/div[1]/div[2]/span/ins/span/bdi/text()",
+        "//*[@id='product-34718']/div[2]/div[2]/div[2]/div/form/div[2]/div/div[2]/div[1]/div[2]/span/ins/span/bdi/text()"
+    ],
+    "ghabocover.ir": [
+        "//*[@id='product-36384']/div[1]/div[2]/div/div[2]/div/p/span/span/bdi/span",
+        "//*[@id='product-44183']/div[1]/div[2]/div/div[2]/div/p/span/span/bdi/text()"
+    ],
+    "boomrang-shop.com": [
+        "//*[@id='product-105270']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-105025']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "irandigimall.com": [
+        "//*[@id='product-1411332']/div/section[2]/div[2]/div[2]/div/div[3]/div/p/span/ins/span/bdi/text()",
+        "//*[@id='product-1432387']/div/section[2]/div[2]/div[2]/div/div[3]/div/p/span/ins/span/bdi/text()"
+    ],
+    "taaghche.com": [
+        "//*[@id='__next']/main/div/div[4]/div[1]/div[2]/div/div[2]/div[2]/div/div/div[1]",
+        "//*[@id='__next']/main/div/div[4]/div[1]/div[2]/div/div[2]/div[2]/div/div/div[1]"
+    ],
+    "spigen.ir": [
+        "//*[@id='product-304034']/div/section[2]/div/div[2]/div/section[2]/div/div[2]/div/div[1]/div/div[3]/div/p/span/bdi/text()",
+        "//*[@id='product-303982']/div/section[2]/div/div[2]/div/section[2]/div/div[2]/div/div[1]/div/div[3]/div/p/span/bdi/text()"
+    ],
+    "stopmobile.ir": [
+        "/html/body/div[1]/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div[2]/div/p/span/bdi/text()",
+        "/html/body/div[1]/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div[2]/div/p/span/bdi/text()"
+    ],
+    "tank.ir": [
+        "//*[@id='__next']/div[2]/main/div/div/div[2]/div[2]/div/div[1]/div/div[3]/div[1]/div/div",
+        "//*[@id='__next']/div[2]/main/div/div/div[2]/div[2]/div/div[1]/div/div[3]/div[1]/div/div"
+    ],
+    "isunshop.ir": [
+        "//*[@id='product-13973']/div[1]/div[2]/div/div[2]/div/div[2]/ins/span/bdi/text()",
+        "//*[@id='product-13943']/div[1]/div[2]/div/div[2]/div/div[2]/ins/span/bdi/text()"
+    ],
+    "nitsileshop.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "negarcarpets.com": [
+        "//*[@id='content']/div/div[2]/div/section[1]/div/div/div[2]/div/div/div[4]/div/p/span/bdi/text()",
+        "//*[@id='content']/div/div[2]/div/section[1]/div/div/div[2]/div/div/div[4]/div/p/span/bdi/text()"
+    ],
+    "golbargchild.ir": [
+        "//*[@id='product-189382']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-189375']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "myilda.com": [
+        "//*[@id='product-248389']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-244282']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "araxyadak.ir": [
+        "//*[@id='product-97151']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-100726']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "hyperglass.ir": [
+        "//*[@id='product-5464']/div/div[2]/div/div/div[3]/div/div/div/div[7]/div/p/span/bdi/text()",
+        "//*[@id='product-5463']/div/div[2]/div/div/div[3]/div/div/div/div[7]/div/p/span/bdi/text()"
+    ],
+    "sfone.ir": [
+        "//*[@id='our_price_display']",
+        "//*[@id='our_price_display']"
+    ],
+    "janebi360.com": [
+        "//*[@id='product-18385']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-16922']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "guardxshop.com": [
+        "//*[@id='__next']/div/div[1]/section[1]/div/div/div/div[1]/div/div/div[2]/div/div[1]/h3/text()",
+        "//*[@id='__next']/div/div[1]/section[1]/div/div/div/div[1]/div/div/div[2]/div/div[1]/h3/text()"
+    ],
+    "www.ghabnaab.com": [
+        "/html/body/section[2]/section[2]/div/div[1]/div[2]/div/div[2]/div[1]/div/div/span/text()",
+        "/html/body/section[2]/section[2]/div/div[1]/div[2]/div/div[2]/div[1]/div/div/span/text()"
+    ],
+    "www.irantimer.com": [
+        "//*[@id='aspnetForm']/div[3]/div/div[1]/div[1]/div[3]/div[3]/div[2]/div[4]/span[2]/span[1]",
+        "//*[@id='aspnetForm']/div[3]/div/div[1]/div[1]/div[3]/div[3]/div[2]/div[4]/span[2]/span[1]"
+    ],
+    "www.cpersia.com": [
+        "//*[@id='our_price_display']",
+        "//*[@id='our_price_display']"
+    ],
+    "www.atikalamarket.com": [
+        "//*[@id='product-22315']/div[1]/div[2]/div/div[2]/div/form/div/div[1]/div[2]/span/div/span[3]/span/bdi/text()",
+        "//*[@id='product-21515']/div[1]/div[2]/div/div[2]/div/form/div/div[1]/div[2]/span/div/span[3]/span/bdi/text()"
+    ],
+    "phone123.ir": [
+        "//*[@id='product-165924']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-158345']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "gooshi.online": [
+        "//*[@id='vizhegi']/form/div[2]/div[2]/div/div/span/div[1]/h5[3]/span",
+        "//*[@id='vizhegi']/form/div[2]/div[2]/div/div/span/div[1]/h5[3]/span"
+    ],
+    "www.adinehbook.com": [
+        "//*[@id='product']/div/div/span[1]/span/span",
+        "//*[@id='product']/div/div/span[1]/b"
+    ],
+    "mobileittel.ir": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span"
+    ],
+    "www.moboluxe.ir": [
+        "/html/body/main/div/div/div[2]/div/div[2]/form/span/text()",
+        "/html/body/main/div/div/div[2]/div/div[2]/form/span/text()"
+    ],
+    "guard-land.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()"
+    ],
+    "melandmoj.com": [
+        "//*[@id='product-604514']/div/div[1]/div/div[2]/form/div/div[2]/div[2]/div/div[2]/p[1]/ins/span/bdi/text()",
+        "//*[@id='product-603182']/div/div[1]/div/div[2]/form/div/div[2]/div[2]/div/div[2]/p[1]/ins/span/bdi/text()"
+    ],
+    "mobkharid.com": [
+        "//*[@id='product-401590']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-401603']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "www.ketabium.com": [
+        "/html/body/article/div/div[2]/div[2]/div[4]/div[2]/span",
+        "/html/body/article/div/div[2]/div[2]/div[4]/div[2]/span"
+    ],
+    "summit-case.com": [
+        "//*[@id='product-82713']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-82619']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "gruccia.ir": [
+        "//*[@id='our_price_display']",
+        "//*[@id='our_price_display']"
+    ],
+    "www.mobocover.com": [
+        "//*[@id='product-88270']/div/section[2]/div/div[2]/div/div[2]/div/p/span/span/bdi/text()",
+        "//*[@id='product-5876']/div/section[2]/div/div[2]/div/div[2]/div/p/span/ins/span/bdi/text()"
+    ],
+    "abzaremobile.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div[1]/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "casebartar.ir": [
+        "//*[@id='product-6606']/div[1]/div[2]/div[5]/p[1]/span/span/text()",
+        "//*[@id='product-7023']/div[1]/div[2]/div[5]/p[1]/span/span/text()"
+    ],
+    "aradel.ir": [
+        "//*[@id='product-7638']/div[1]/div[2]/form/div/div[2]/div/div[3]/div/div[1]/div[2]/span/span/bdi/bdi/text()",
+        "//*[@id='product-6289']/div[1]/div[2]/form/div/div[2]/div/div[3]/div/div[1]/div[2]/span/span/bdi/bdi/text()"
+    ],
+    "jeetel.com": [
+        "//*[@id='ProductPrice']/text()",
+        "//*[@id='ProductPrice']/text()"
+    ],
+    "tagmond.com": [
+        "//*[@id='partial-pricing-loading']/div/text()",
+        "//*[@id='partial-pricing-loading']/div/text()"
+    ],
+    "meghdadit.com": [
+        "//*[@id='lblPrice']",
+        "//*[@id='lblPrice']"
+    ],
+    "zibzarjewelry.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "source-computer.com": [
+        "//*[@id='ProductPrice']/text()",
+        "//*[@id='ProductPrice']"
+    ],
+    "www.33pol.net": [
+        "//*[@id='main']/div[1]/div/div/div[2]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div/span",
+        "//*[@id='main']/div[1]/div/div/div[2]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div/span"
+    ],
+    "pro-island.com": [
+        "//*[@id='product-29001']/div/div/div/section[2]/div[2]/div/div[2]/div/div/section[1]/div/div/div[2]/div/div/div/div/p/span/bdi/text()",
+        "//*[@id='product-24757']/div/div/div/section[2]/div[2]/div/div[2]/div/div/section[1]/div/div/div[2]/div/div/div/div/p/span/bdi/text()"
+    ],
+    "shahreketabonline.com": [
+        "/html/body/div/main/div/div/div[1]/div[1]/div[1]/div[3]/div[2]/text()",
+        "/html/body/div/main/div/div/div[1]/div[1]/div/div[3]/div[2]/text()"
+    ],
+    "drjanebi.com": [
+        "//*[@id='ProductPrice']",
+        "//*[@id='ProductPrice']/text()"
+    ],
+    "samsungcover.ir": [
+        "//*[@id='product-50716']/div/div[2]/div/div[1]/div[1]/form/div/div[1]/div[2]/span/span/bdi/text()",
+        "//*[@id='product-50627']/div/div[2]/div/div[1]/div[1]/form/div/div[1]/div[2]/span/span/bdi/text()"
+    ],
+    "www.koton.ir": [
+        "//*[@id='product-details-form']/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div/div/div[2]/div[2]/span[1]",
+        "//*[@id='product-details-form']/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div/div/div[2]/div[2]/span[1]"
+    ],
+    "diginoo.com": [
+        "//*[@id='product']/div[3]/div[1]/div/div",
+        "//*[@id='product']/div[3]/div[1]/div/div"
+    ],
+    "digicostore.com": [
+        "//*[@id='pd-form']/section/aside/div[4]/div[1]/div/div[1]/div/div/div/span",
+        "//*[@id='pd-form']/section/aside/div[4]/div[1]/div/div[1]/div/div/div/span"
+    ],
+    "iranicover.com": [
+        "//*[@id='product-13167']/div/section[2]/div/div[3]/div/section/div/div/div/div[7]/div/p/span/bdi/text()",
+        "//*[@id='product-13055']/div/section[2]/div/div[3]/div/section/div/div/div/div[7]/div/p/span/bdi/text()"
+    ],
+    "masterkala.com": [
+        "/html/body/section/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div[4]/div[1]/div[2]/b",
+        "/html/body/section/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div[4]/div[1]/div[2]/b"
+    ],
+    "aristaashop.com": [
+        "//*[@id='__next']/div[3]/div[2]/div[2]/div/div[2]/section/div/div[6]/div/p[1]",
+        "//*[@id='__next']/div[3]/div[2]/div[2]/div/div[2]/section/div/div[6]/div/p[1]"
+    ],
+    "harajsara.com": [
+        "//*[@id='product-232445']/div[1]/div[2]/form/div/div[2]/div/div[3]/div/div[1]/div[2]/span/span/bdi/bdi/text()",
+        "//*[@id='product-92730']/div[1]/div[2]/form/div/div[2]/div/div[3]/div/div[1]/div[2]/span/span/bdi/bdi/text()"
+    ],
+    "socksshop.ir": [
+        "//*[@id='variationPlaceholder']/div[1]/div[1]/span[2]/span/span",
+        "//*[@id='variationPlaceholder']/div[1]/div[1]/span[2]/span/span"
+    ],
+    "onlineghab.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "iranmotorola.ir": [
+        "//*[@id='product-91428']/div[1]/div[2]/p/span/span/bdi/text()",
+        "//*[@id='product-91380']/div[1]/div[2]/p/span/span/bdi/text()"
+    ],
+    "charmdiako.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()"
+    ],
+    "www.setlux.com": [
+        "//*[@id='product-35312']/div[1]/div[3]/div/p/span/span/bdi/text()",
+        "//*[@id='product-31390']/div[1]/div[3]/div/p/span/span/bdi/text()"
+    ],
+    "baynet-co.com": [
+        "//*[@id='product-876']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-612']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "teckala.com": [
+        "//*[@id='product-11558']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-11571']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "mallir.com": [
+        "/html/body/div[1]/div/div/div/div/section[2]/div/div[3]/div/div[2]/div/p/span/bdi/text()",
+        "/html/body/div[1]/div/div/div/div/section[2]/div/div[3]/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "nahang.ir": [
+        "//*[@id='PriceCont']/div[2]/text()",
+        "//*[@id='PriceCont']/div[2]/text()"
+    ],
+    "www.iranwaikiki.com": [
+        "//*[@id='product-20423264']/div[1]/div[2]/p/span/bdi/text()",
+        "//*[@id='product-20406203']/div[1]/div[2]/p/span/bdi/text()"
+    ],
+    "zoodika.com": [
+        "//*[@id='hikashop_product_price_main']/span/span[1]",
+        "//*[@id='hikashop_product_price_main']/span/span[1]"
+    ],
+    "ferfere.com": [
+        "//*[@id='price-value-6518']/text()",
+        "//*[@id='price-value-20426']/text()"
+    ],
+    "darlene.ir": [
+        "//*[@id='product-24288']/div[1]/div[2]/div[5]/p[1]/span/bdi/text()",
+        "//*[@id='product-24282']/div[1]/div[2]/div[5]/p[1]/span/bdi/text()"
+    ],
+    "rcooshop.com": [
+        "//*[@id='product-76628']/div[1]/div[2]/div/div[2]/div/div/div[2]/div/span/span/bdi/text()",
+        "//*[@id='product-76638']/div[1]/div[2]/div/div[2]/div/div/div[2]/div/span/span/bdi/text()"
+    ],
+    "hoomero.com": [
+        "//*[@id='tm-epo-totals']/dl/dd[2]/span/span/bdi/text()",
+        "//*[@id='product-18816']/div/div[1]/div/div[2]/div[2]/p/span/bdi/text()"
+    ],
+    "www.bennubook.com": [
+        "/html/body/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/h2",
+        "/html/body/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/h2"
+    ],
+    "technosun.ir": [
+        "//*[@id='__next']/div[1]/main/div[1]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/span",
+        "//*[@id='__next']/div[1]/main/div[1]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div/div/span"
+    ],
+    "ketabejam.com": [
+        "//*[@id='product-1177423']/div[1]/div[2]/p/span/ins/span/bdi/text()",
+        "//*[@id='product-1162201']/div[1]/div[2]/p/span/ins/span/bdi/text()"
+    ],
+    "mylgworld.com": [
+        "//*[@id='product-32791']/div/section[2]/div/div[3]/div/section[1]/div/div/div/div[2]/div/p/span[1]/bdi/text()",
+        "//*[@id='product-32811']/div/section[2]/div/div[3]/div/section[1]/div/div/div/div[2]/div/p/span[1]/bdi/text()"
+    ],
+    "idebook.ir": [
+        "/html/body/div[5]/div[4]/div/div/div[3]/div[3]/p/text()",
+        "/html/body/div[5]/div[4]/div/div/div[3]/div[3]/p/text()"
+    ],
+    "hanso.ir": [
+        "//*[@id='product-98199']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-98194']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "parandscarf.com": [
+        "//*[@id='main-wrapper']/section[1]/div/div/div[2]/div/div[2]/span",
+        "//*[@id='main-wrapper']/section[1]/div/div/div[2]/div/div[2]/span"
+    ],
+    "behgo.com": [
+        "//*[@id='product-61813']/div[1]/div[2]/form/div/div[2]/div/div/div[2]/div[2]/span/ins/span/bdi/text()",
+        "//*[@id='product-66802']/div[1]/div[2]/form/div/div[2]/div/div/div[2]/div[2]/span/ins/span/bdi/text()"
+    ],
+    "shtgallery.com": [
+        "//*[@id='product-20107']/div/section[2]/div/div[3]/div/section/div/div/div/div[9]/div/p/span/text()",
+        "//*[@id='product-20100']/div/section[2]/div/div[3]/div/section/div/div/div/div[9]/div/p/span/text()"
+    ],
+    "sainacharm.com": [
+        "//*[@id='product-50561']/div/div[1]/div/div[2]/div[3]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-51786']/div/div[1]/div/div[2]/div[3]/div/p/span[1]/bdi/text()"
+    ],
+    "janebi.com": [
+        "//*[@id='ProductPrice']/text()",
+        "//*[@id='ProductPrice']/text()"
+    ],
+    "www.sergestyle.com": [
+        "//*[@id='wrapper']/div[2]/div/div/div[1]/div/div[3]/div[2]/div[1]/div[3]/div/span/span",
+        "//*[@id='wrapper']/div[2]/div/div/div[1]/div/div[3]/div[2]/div[1]/div[3]/div/span/span"
+    ],
+    "shinato.ir": [
+        "//*[@id='form1']/div[10]/div/div[1]/div/div/div/div[2]/table/tbody/tr[3]/td/div[2]/span",
+        "//*[@id='form1']/div[10]/div/div[1]/div/div/div/div[2]/table/tbody/tr[4]/td/div[2]/span"
+    ],
+    "mobilehomatel.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "www.khanoumi.com": [
+        "/html/body/section/main/div/div[1]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/span",
+        "/html/body/section/main/div/div[1]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/span"
+    ],
+    "lidakala.com": [
+        "/html/body/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[5]/div[1]/div/div[2]/span[1]",
+        "/html/body/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[5]/div[1]/div/div[2]/span[1]"
+    ],
+    "goltay.com": [
+        "//*[@id='product-22']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-346']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "hamedisilver.ir": [
+        "//*[@id='product-27398']/div/div[1]/div[2]/div[3]/div/p/span/span/bdi/text()",
+        "//*[@id='product-27387']/div/div[1]/div[2]/div[3]/div/p/span/span/bdi/text()"
+    ],
+    "irangoldmarket.com": [
+        "//*[@id='ProductPrice']/text()",
+        "//*[@id='ProductPrice']/text()"
+    ],
+    "loofi.com": [
+        "//*[@id='main']/div/div[2]/div[1]/div[1]/div/span",
+        "//*[@id='main']/div/div[2]/div[1]/div[2]/div/span[1]"
+    ],
+    "parlagohar.com": [
+        "//*[@id='top']/div[3]/div/div[1]/div[2]/div/div[2]/div/div[4]/div/span",
+        "//*[@id='top']/div[3]/div/div[1]/div[2]/div/div[2]/div/div[4]/div/span"
+    ],
+    "barmandecore.ir": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span"
+    ],
+    "sharrgh.com": [
+        "/html/body/div[1]/main/div[1]/div[2]/div/div[2]/div/div[2]/div[3]/span/a",
+        "/html/body/div[1]/main/div[1]/div[2]/div/div[2]/div/div[2]/div[3]/span/a"
+    ],
+    "luxsoheil.com": [
+        "//*[@id='product-23373']/div[1]/div[3]/div[3]/p/ins/span/bdi/text()",
+        "//*[@id='product-34196']/div[1]/div[3]/div[3]/p/ins/span/bdi/text()"
+    ],
+    "www.eghlimeh.com": [
+        "//*[@id='product']/div[3]/div[1]/div/div",
+        "//*[@id='product']/div[3]/div[1]/div/div"
+    ],
+    "ajansbook.ir": [
+        "//*[@id='product']/div[1]/div/div/div/text()",
+        "//*[@id='product']/div[1]/div/div/div/text()"
+    ],
+    "mitalyshop.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "irgadget.com": [
+        "//*[@id='product-28913']/div[1]/div[2]/div/div/div[2]/div/div/div[3]/div/p[1]/span/bdi/text()",
+        "//*[@id='product-28906']/div[1]/div[2]/div/div/div[2]/div/div/div[3]/div/p[1]/span/bdi/text()"
+    ],
+    "elanza.com": [
+        "//*[@id='product_item_price']",
+        "//*[@id='product_item_price']"
+    ],
+    "manteofficial.com": [
+        "//*[@id='product-8895']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-50666']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "patanjameh.ir": [
+        "//*[@id='ctl00_ContentPlaceHolder1_WebPartManager1_gwpKalaTemplate1_KalaTemplate1_pnView']/div[3]/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div[2]/span/text()",
+        "//*[@id='ctl00_ContentPlaceHolder1_WebPartManager1_gwpKalaTemplate1_KalaTemplate1_pnView']/div[3]/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div[2]/span/text()"
+    ],
+    "www.oudonline.ir": [
+        "//*[@id='product-30274']/div[1]/div[2]/div/div/div[2]/div/div[2]/div/span/bdi/text()",
+        "//*[@id='product-30276']/div[1]/div[2]/div/div/div[2]/div/div[2]/div/span/bdi/text()"
+    ],
+    "binateb.com": [
+        "//*[@id='content']/div/div/div/section[1]/div/div/div[2]/div/div/div[3]/div/div/div/div/span/text()",
+        "//*[@id='content']/div/div/div/section[1]/div/div/div[2]/div/div/div[3]/div/div/div/div/span/text()"
+    ],
+    "zitazi.com": [
+        "//*[@id='price-single-p-m']/div/p/span/bdi/text()",
+        "//*[@id='price-single-p-m']/div/p/span/bdi/text()"
+    ],
+    "www.gajmarket.com": [
+        "//*[@id='js-vendors-list']/div/div[2]/div[2]/div[1]/span[1]",
+        "//*[@id='js-vendors-list']/div/div[2]/div[2]/div[1]/span[1]"
+    ],
+    "justjanebi.com": [
+        "//*[@id='product-2882']/div[1]/div[2]/div/div/div[2]/div/p[1]/ins/span/bdi/text()",
+        "//*[@id='product-1441']/div[1]/div[2]/div/div/div[2]/div/p[1]/ins/span/bdi/text()"
+    ],
+    "mobosam.com": [
+        "/html/body/meta-data/meta-data/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span",
+        "/html/body/meta-data/meta-data/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span"
+    ],
+    "www.chibekhoonam.net": [
+        "//*[@id='product_content']/div[1]/div[1]/div[1]/span[3]",
+        "//*[@id='product_content']/div[1]/div[1]/div[1]/span[3]"
+    ],
+    "bookland.ir": [
+        "//*[@id='prcVal']/div[2]/span/text()",
+        "//*[@id='prcVal']/div[2]/span/text()"
+    ],
+    "www.toytoy.ir": [
+        "//*[@id='sec_discounted_price_25465']",
+        "//*[@id='sec_discounted_price_25464']"
+    ],
+    "lcshop.ir": [
+        "//*[@id='product-5851']/div[2]/div[1]/div[1]/div[2]/div/div/p/ins/span/bdi/text()",
+        "//*[@id='product-5852']/div[2]/div[1]/div[1]/div[2]/div/div/p/ins/span/bdi/text()"
+    ],
+    "asrtools.com": [
+        "//*[@id='product-100296']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[5]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-103521']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[5]/div/p/span/bdi/text()"
+    ],
+    "mosbatesabz.com": [
+        "//*[@id='product-2256490']/div[1]/div/div/div/div[2]/div/p[1]/ins/span/bdi/text()",
+        "//*[@id='product-2256304']/div[1]/div/div/div/div[2]/div/p[1]/ins/span/bdi/text()"
+    ],
+    "tak-tshirt.com": [
+        "//*[@id='product-23258']/div[1]/div/div[2]/div[3]/div/div/div[2]/div[1]/p/span[2]/bdi/text()",
+        "//*[@id='product-23249']/div[1]/div/div[2]/div[3]/div/div/div[2]/div[1]/p/span[2]/bdi/text()"
+    ],
+    "pershiamobile.com": [
+        "//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/div/span",
+        "//*[@id='add-to-cart-or-refresh']/div[4]/div[2]/div/span"
+    ],
+    "shalizshop.ir": [
+        "//*[@id='body']/section[2]/div[1]/div[2]/div/div[2]/div/h4",
+        "//*[@id='body']/section[2]/div[1]/div[2]/div/div[2]/div/h4"
+    ],
+    "padidehnaghsh.com": [
+        "//*[@id='content']/div[2]/div/section[3]/div/div[1]/div/section[1]/div/div[2]/div/div/div/p/span/bdi/text()",
+        "//*[@id='content']/div[2]/div/section[3]/div/div[1]/div/section[1]/div/div[2]/div/div/div/p/span/bdi/text()"
+    ],
+    "petabad.com": [
+        "//*[@id='wz-product-price']",
+        "//*[@id='wz-product-price']"
+    ],
+    "asssa.ir": [
+        "//*[@id='product-10599']/div[1]/div[2]/div/div/div[2]/div/form/div/div[1]/div[2]/span/div/span/bdi/text()",
+        "//*[@id='product-10591']/div[1]/div[2]/div/div/div[2]/div/form/div[1]/div/span/bdi/text()"
+    ],
+    "www.shoesbank.org": [
+        "//*[@id='product']/div[6]/div/div[2]/div/div[5]/div[2]/span[1]",
+        "//*[@id='product']/div[6]/div/div[2]/div/div[5]/div[2]/span[1]"
+    ],
+    "itpazh.com": [
+        "//*[@id='post-97082']/div/div[2]/div/div[3]/div/div[4]/div/div/div[2]/p/span/bdi/text()",
+        "//*[@id='post-97079']/div/div[2]/div/div[3]/div/div[4]/div/div/div[2]/p/span/bdi/text()"
+    ],
+    "nivamall.com": [
+        "//*[@id='product-79458']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-80141']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "www.bodyspinner.co": [
+        "//*[@id='sale-price']",
+        "//*[@id='sale-price']"
+    ],
+    "www.ikala-jam.ir": [
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div[1]/span",
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div[1]/span"
+    ],
+    "cartersland.ir": [
+        "//*[@id='product-79659']/div/div[1]/div[3]/p/span/bdi/text()",
+        "//*[@id='product-74138']/div/div[1]/div[3]/p/span/bdi/text()"
+    ],
+    "euroman.ir": [
+        "//*[@id='__next']/div/div/section/div[1]/div[2]/div[2]/div[4]/div[4]/div[3]/div/span[1]",
+        "//*[@id='__next']/div/div/section/div[1]/div[2]/div[2]/div[4]/div[4]/div[3]/div/span[1]"
+    ],
+    "www.elsana.co": [
+        "//*[@id='singleScroll']/div/div/div[2]/div/div[3]/div[2]/div[1]/div/div/div[2]/div/text()",
+        "//*[@id='singleScroll']/div/div/div[2]/div/div[3]/div[2]/div[1]/div/div/div[2]/div/text()"
+    ],
+    "beraito.com": [
+        "//*[@id='product-159803']/div[1]/div[2]/div[3]/p/span/span/bdi/text()",
+        "//*[@id='product-159792']/div[1]/div[2]/div[3]/p/span/span/bdi/text()"
+    ],
+    "mojarabshop.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "sarak-co.com": [
+        "//*[@id='sidebar']/div[1]/div[1]/div[4]/div/div[2]",
+        "//*[@id='sidebar']/div[1]/div[1]/div[4]/div/div[2]"
+    ],
+    "alvandstock.com": [
+        "//*[@id='product-116380']/div/div[2]/div/div[2]/div[5]/div/div[1]/div/p/span/bdi/text()",
+        "//*[@id='product-117395']/div/div[2]/div/div[2]/div[5]/div/div[1]/div/p/span/bdi/text()"
+    ],
+    "onlinedavidjones.com": [
+        "//*[@id='product-38664']/div/section[2]/div/div[2]/div/section[1]/div/div/div/div[3]/div/p/span/bdi/text()",
+        "//*[@id='product-38647']/div/section[2]/div/div[2]/div/section[1]/div/div/div/div[3]/div/p/span/bdi/text()"
+    ],
+    "sherrykala.com": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span"
+    ],
+    "ariannakhbaf.com": [
+        "//*[@id='product-21845']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-22352']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "shiknaghsh.ir": [
+        "//*[@id='product-7017']/div/div[1]/div/div[2]/div[2]/p/span/bdi/text()",
+        "//*[@id='product-7012']/div/div[1]/div/div[2]/div[1]/p/span/bdi/text()"
+    ],
+    "moboniz.com": [
+        "//*[@id='product-5128']/div/section[2]/div/div[2]/div/section/div/div[2]/div/div[1]/div/p/span/bdi/text()",
+        "//*[@id='product-1185']/div/section[2]/div/div[2]/div/section/div/div[2]/div/div[1]/div/p/span/bdi/text()"
+    ],
+    "maxbax.com": [
+        "//*[@id='product-1218231']/div[1]/div[2]/form/div/div[2]/div/div[1]/div[2]/div[2]/span/span/bdi/text()",
+        "//*[@id='product-1217334']/div[1]/div[2]/form/div/div[2]/div/div[1]/div[2]/div[2]/span/span/bdi/text()"
+    ],
+    "bartarkala.com": [
+        "//*[@id='product-108490']/div[1]/div[2]/div/div/div[2]/div/div[4]/span/bdi/text()",
+        "//*[@id='product-108460']/div[1]/div[2]/div/div/div[2]/div/div[4]/span/bdi/text()"
+    ],
+    "www.saeedi.ir": [
+        "//*[@id='target']/div[3]/h2/span",
+        "//*[@id='target']/div[2]/h2[2]/span"
+    ],
+    "brandiol.com": [
+        "//*[@id='product-494270']/div[2]/p/span/bdi/text()",
+        "//*[@id='product-335481']/div[2]/p/span/bdi/text()"
+    ],
+    "www.shoptime24.com": [
+        "//*[@id='price-holder-f0d873ec-0164-4f2e-9bad-a278fc810925']",
+        "//*[@id='price-holder-d6708156-978c-4d01-ae57-d7373e02d50c']"
+    ],
+    "www.kooleposhti.net": [
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div/span[1]",
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div/span[1]"
+    ],
+    "decotiss.ir": [
+        "//*[@id='product-52484']/div[1]/div[3]/div/div/div[2]/div[1]/p/span/bdi/text()",
+        "//*[@id='product-52476']/div[1]/div[3]/div/div/div[2]/div[1]/p/span/bdi/text()"
+    ],
+    "epasazh.com": [
+        "//*[@id='mainProductContainer']/div[2]/div[2]/div[3]/div[3]/div[1]/div/div",
+        "//*[@id='mainProductContainer']/div[2]/div[2]/div[3]/div[3]/div[1]/div/div"
+    ],
+    "www.papcoiran.com": [
+        "//*[@id='add-to-cart-or-refresh']/div[2]/div[1]/div[1]/div[1]/div/span[1]",
+        "//*[@id='add-to-cart-or-refresh']/div[2]/div[1]/div[1]/div[1]/div/span[1]"
+    ],
+    "novinnaghsh.ir": [
+        "/html/body/div/main/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/span[1]/text()",
+        "/html/body/div/main/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/span[1]/text()"
+    ],
+    "monacocase.ir": [
+        "//*[@id='product-4067']/div[1]/div[3]/p/span/span/bdi/text()",
+        "//*[@id='product-3114']/div[1]/div[3]/p/span/span/bdi/text()"
+    ],
+    "www.lc-man.com": [
+        "//*[@id='sale-price']",
+        "//*[@id='sale-price']"
+    ],
+    "empratour.com": [
+        "//*[@id='product-179039']/div[1]/div[2]/p/span/bdi/text()",
+        "//*[@id='product-179246']/div[1]/div[2]/p/span/bdi/text()"
+    ],
+    "kavamask.com": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div[1]/div/div[5]/h5[2]/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div[1]/div/div[5]/h5[2]/span"
+    ],
+    "toplandone.com": [
+        "/html/body/article/div/section[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[4]/span",
+        "/html/body/article/div/section[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div[4]/span"
+    ],
+    "majdmarket.com": [
+        "//*[@id='col-1744429949']/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='col-599224296']/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "chinizarrinmal.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "jorabeno.com": [
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div/span[1]",
+        "//*[@id='main']/div[1]/div/div/div[2]/div/div[2]/div[3]/div[1]/div[1]/div/span[1]"
+    ],
+    "www.zarrinkook.com": [
+        "//*[@id='__next']/div/div[1]/section[1]/div/div/div/div[1]/div/div/div[2]/div/h3/text()",
+        "//*[@id='__next']/div/div[1]/section[1]/div/div/div/div[1]/div/div/div[2]/div/h3/text()"
+    ],
+    "www.designocar.ir": [
+        "//*[@id='product-40115']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-40209']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()"
+    ],
+    "www.patilook.com": [
+        "//*[@id='product-18505']/div[1]/div[3]/div[5]/p/ins/span/bdi/text()",
+        "//*[@id='product-18499']/div[1]/div[3]/div[5]/p/ins/span/bdi/text()"
+    ],
+    "kanzwatch.com": [
+        "//*[@id='lblPrice1']/text()",
+        "//*[@id='lblPrice1']/text()"
+    ],
+    "www.agahbookshop.com": [
+        "//*[@id='AddToCart']/span[1]/span[2]",
+        "//*[@id='AddToCart']/span[1]/span[2]"
+    ],
+    "collegemehr.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()"
+    ],
+    "www.boomerangev.com": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div[1]/div/div[5]/h5/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div[1]/div/div[5]/h5/span"
+    ],
+    "www.hoomero.com": [
+        "//*[@id='product-18817']/div/div[1]/div/div[2]/div[2]/p/span/bdi/text()",
+        "//*[@id='product-18816']/div/div[1]/div/div[2]/div[2]/p/span/bdi/text()"
+    ],
+    "kvsportwear.com": [
+        "/html/body/div[2]/main/div/div[2]/div/article/div/div[2]/div/div[1]/div[5]/div/ins/span/text()",
+        "/html/body/div[2]/main/div/div[2]/div/article/div/div[2]/div/div[1]/div[5]/div/ins/span/text()"
+    ],
+    "sabzgostar.net": [
+        "/html/body/div[1]/div/section[2]/div/div/div[1]/div/div/div[2]/div/div[5]/h3/text()",
+        "/html/body/div[1]/div/section[2]/div/div/div[1]/div/div/div[2]/div/div[5]/h3/text()"
+    ],
+    "www.mobosam.ir": [
+        "/html/body/meta-data/meta-data/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span",
+        "/html/body/meta-data/meta-data/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5[3]/span"
+    ],
+    "www.dorsa.net": [
+        "//*[@id='sidebar']/div[3]/div/div/span[1]",
+        "//*[@id='sidebar']/div[3]/div/div/span[1]"
+    ],
+    "niktakala.com": [
+        "//*[@id='__next']/div/div/section/div[1]/div[2]/div[2]/div[4]/div[4]/div[3]/div[2]/span[1]",
+        "//*[@id='__next']/div/div/section/div[1]/div[2]/div[2]/div[4]/div[4]/div[3]/div[2]/span[1]"
+    ],
+    "www.shifershoes.com": [
+        "/html/body/div[2]/div/div[2]/div[1]/text()",
+        "/html/body/div[2]/div/div[2]/div[1]/text()"
+    ],
+    "dornatell.ir": [
+        "//*[@id='product-150979']/div/div[1]/div[2]/div[5]/p/span/bdi/text()",
+        "//*[@id='product-167380']/div/div[1]/div[2]/div[5]/p/span/bdi/text()"
+    ],
+    "yalsan.com": [
+        "//*[@id='product-465825']/div[1]/div[2]/div/div/div[2]/div/p[1]/span/bdi/text()",
+        "//*[@id='product-289479']/div[1]/div[2]/div/div/div[2]/div/p[1]/span/bdi/text()"
+    ],
+    "davidjonesonline.ir": [
+        "//*[@id='root']/div/div[3]/div/div[3]/div/div[2]/div[2]/span/text()",
+        "//*[@id='root']/div/div[3]/div/div[3]/div/div[2]/div[2]/span/text()"
+    ],
+    "kstock.ir": [
+        "//*[@id='product-56002']/div/div[2]/div/div[1]/div[1]/span/bdi/text()",
+        "//*[@id='product-78747']/div/div[2]/div/div[1]/div[1]/span/bdi/text()"
+    ],
+    "galleryazizi.ir": [
+        "/html/body/main/div/section[1]/div/section[2]/div/p/span/text()",
+        "/html/body/main/div/section[1]/div/section[2]/div/p[2]/span/text()"
+    ],
+    "www.ronaexpress.com": [
+        "//*[@id='finalPriceDetails']/text()",
+        "//*[@id='finalPriceDetails']/text()"
+    ],
+    "golposh.com": [
+        "//*[@id='product-15655']/div/div[2]/div/div[1]/div[2]/form[1]/div/div[1]/div[2]/span/span/bdi/text()",
+        "//*[@id='product-15548']/div/div[2]/div/div[1]/div[2]/form/div/div[1]/div[2]/span/ins/span/bdi/text()"
+    ],
+    "mobileittel.com": [
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span",
+        "/html/body/main/div/div/div[1]/div/div[2]/form/div/div[2]/div/div[3]/h5/span"
+    ],
+    "bookche.ir": [
+        "/html/body/div[6]/div[2]/div/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]/span",
+        "/html/body/div[6]/div[2]/div/div/div[2]/div[1]/div/div[2]/div[2]/div/div[2]/span"
+    ],
+    "kenarto.com": [
+        "//*[@id='addToCart']/div[4]/div[1]/span[2]/span",
+        "//*[@id='addToCart']/div[4]/div[1]/span[2]/span"
+    ],
+    "www.croco.ir": [
+        "//*[@id='product-290880']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-2639']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "saymandigital.com": [
+        "//*[@id='product-scroll']/div/div[1]/div/div[1]/div[1]/div/div[1]/span",
+        "//*[@id='product-scroll']/div/div[1]/div/div[1]/div[1]/div/div[1]/span"
+    ],
+    "babaphone.ir": [
+        "//*[@id='col-197516392']/div/div[3]/div/p/span/bdi/text()",
+        "//*[@id='col-132534377']/div/div[3]/div/p/span/bdi/text()"
+    ],
+    "www.mobile140.com": [
+        "//*[@id='single__product']/div[2]/div[3]/div[1]/div/div[2]/div[2]/span/span",
+        "//*[@id='single__product']/div[2]/div[3]/div[1]/div/div[2]/div[2]/span[3]/span"
+    ],
+    "karmatus.com": [
+        "//*[@id='product-56685']/div[1]/div[2]/div[3]/p/span/bdi/text()",
+        "//*[@id='product-56682']/div[1]/div[2]/div[3]/p/span/bdi/text()"
+    ],
+    "samsungtel.com": [
+        "//*[@id='product-14990']/div[1]/div[2]/div/div/div[2]/div/p/span/bdi/text()",
+        "//*[@id='product-15417']/div[1]/div[2]/div/div/div[2]/div/form/div/div/div[1]/div[2]/span/ins/span/bdi/text()"
+    ],
+    "bolgano.net": [
+        "//*[@id='col-77664325']/div/div[5]/div/p/span/bdi/text()",
+        "//*[@id='col-993025969']/div/div[5]/div/p/span/bdi/text()"
+    ],
+    "behshopmode.com": [
+        "//*[@id='__next']/div/div/section/div[2]/div[2]/div[2]/div[4]/div[4]/div[3]/div/span[1]",
+        "//*[@id='__next']/div/div/section/div[2]/div[2]/div[2]/div[4]/div[4]/div[3]/div/span[1]"
+    ],
+    "paranik.com": [
+        "//*[@id='total_price']",
+        "//*[@id='total_price']"
+    ],
+    "pasdaranbookcity.com": [
+        "//*[@id='product-165018']/product/div/div/div[2]/p[1]/ins/span/bdi/text()",
+        "//*[@id='product-164120']/product/div/div/div[2]/p[1]/ins/span/bdi/text()"
+    ],
+    "shimashoes.com": [
+        "//*[@id='wze16']/div/article/div[3]/div[2]/span[2]",
+        "//*[@id='wze16']/div/article/div[3]/div[2]/span[2]"
+    ],
+    "mamashop.ir": [
+        "//*[@id='product-details-form']/div/div[2]/div/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/div/div[2]/div[2]/span[1]",
+        "//*[@id='product-details-form']/div/div[2]/div/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/div/div[2]/div[2]/span[1]"
+    ],
+    "miladphone.ir": [
+        "//*[@id='product-134474']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()",
+        "//*[@id='product-135326']/div[1]/div[2]/div/div/div[2]/div/p/ins/span/bdi/text()"
+    ],
+    "www.banichap.com": [
+        "//*[@id='default_price_1']",
+        "//*[@id='default_price_1']"
+    ],
+    "chaptablo.ir": [
+        "//*[@id='product-6433']/div/div[1]/div/div[2]/div/div/div[4]/div/p/span/bdi/text()",
+        "//*[@id='product-6423']/div/div[1]/div/div[2]/div/div/div[4]/div/p/span/bdi/text()"
+    ]
+}
