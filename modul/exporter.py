@@ -27,3 +27,5 @@ class JsonExporter:
         dump = json.dumps(self.data, indent=2, ensure_ascii=False )
         self.file.write(dump)
         self.file.close()
+    def __len__(self):
+        return len(self.data)
