@@ -6,50 +6,54 @@ from datacore import JsonWebRepo, NoXPathError
 from exporter import JsonExporter
 from extract import extract
 from exceptions import ScrapException
-from normalizers import StripNormalizer, EmptyNormalizer, CurrencyNormalizer
+from normalizers import StripNormalizer, EmptyNormalizer, CurrencyNormalizer, PCNormalizer
 
 from urllib.parse import urlparse
 
 BASE_DIR = Path(__file__).parent
 XPATHS_FILE = BASE_DIR / 'xpath_data.json'
 EXPORT_FILE = BASE_DIR / 'output.json'
+EXPORT_SUCCESS_FILE = BASE_DIR / 'output_success.json'
+EXPORT_FAILS_FILE = BASE_DIR / 'output_fails.json'
 URL_FILE = BASE_DIR / "urls.json"
 
 urls = json.loads(open(URL_FILE, 'r+', encoding='utf-8').read())
+
+# WHEN YOURE SEEING THIS
 
 class scrapper:
     def __init__(self) -> None:
         self.repo = JsonWebRepo(XPATHS_FILE)
         self.fetcher = fetcher()
         self.exporter = JsonExporter(EXPORT_FILE)
-        self.failed_urls = []
-        self.successful_urls = []  
+        self.fails = JsonExporter(EXPORT_FAILS_FILE)
+        self.success = JsonExporter(EXPORT_SUCCESS_FILE)
         self.normalizers = [
             EmptyNormalizer(),
             StripNormalizer(),
-            CurrencyNormalizer(),  
+            CurrencyNormalizer(),
+            PCNormalizer()
         ]
 
     async def scrap(self, url):
         data = {}
+        domainData = 'not fetched'
         try:
             html = await self.fetcher.fetch(url)
-            xpaths = await self.repo.GetXPaths(url)
+            domainData = await self.repo.GetXPaths(url)
+            xpaths = domainData['xpath']
             for tag, xpath in xpaths.items():
                 result = await extract(html, xpath)
-                
 
                 for normalizer in self.normalizers:
-                    result = await normalizer.normalize(result)
-
+                    result = await normalizer.normalize(result, domainData)
 
                 data[tag] = result
-
-
+    
             if any(data.values()):  
                 parsed_url = urlparse(url)
                 domain = parsed_url.netloc
-                self.successful_urls.append({
+                await self.success.export({
                     "domain": domain,
                     "xpaths": list(xpaths.values())
                 })
@@ -57,30 +61,23 @@ class scrapper:
                 raise ScrapException("Data extraction resulted in empty content.")
 
         except ScrapException as e:
-            self.failed_urls.append({
+            await self.fails.export({
                 "url": url,
-                "xpaths": list(xpaths.values()) if 'xpaths' in locals() else [],
+                "data": domainData,
                 "error": e.msg
             })
-
+            
         await self.exporter.export({'url': url, 'results': data})
 
     async def close(self):
         self.repo.close()
         await self.fetcher.close()
         self.exporter.close()
+        self.fails.close()
+        self.success.close()
 
-
-        with open(BASE_DIR / 'success_output.json', 'w', encoding='utf-8') as f:
-            json.dump(self.successful_urls, f, indent=2, ensure_ascii=False)
-
-
-        with open(BASE_DIR / 'faild_output.json', 'w', encoding='utf-8') as f:
-            json.dump(self.failed_urls, f, indent=2, ensure_ascii=False)
-
-
-        print(f"Total successful URLs: {len(self.successful_urls)}")
-        print(f"Total failed URLs: {len(self.failed_urls)}")
+        print(f"Total successful URLs: {len(self.success)}")
+        print(f"Total failed URLs: {len(self.fails)}")
 
 async def main():
     tasks = []
