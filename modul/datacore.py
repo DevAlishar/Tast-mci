@@ -36,7 +36,7 @@ class PandasWebRepo(BaseWebRepo):
 
 class JsonWebRepo(BaseWebRepo):
     def __init__(self, json_file):
-        self.json = json.loads(open(json_file, 'r+').read())
+        self.json = json.loads(open(json_file, 'r+' , encoding='utf-8').read())
     async def GetXPaths(self, url):
         parsed_url = urlparse(url)
         domain = parsed_url.netloc.lower()
