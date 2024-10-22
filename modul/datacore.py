@@ -39,13 +39,22 @@ class JsonWebRepo(BaseWebRepo):
         self.json = json.loads(open(json_file, 'r+').read())
     async def GetXPaths(self, url):
         parsed_url = urlparse(url)
-        domain = parsed_url.netloc
-        xpaths=self.json.get(domain.__str__().lower(), None)
-        result={}
-        if xpaths is None:
+        domain = parsed_url.netloc.lower()
+        dataFilter=filter(lambda x:x['domain'].lower()==domain, self.json)
+        try:
+            domainData = next(iter(dataFilter))
+        except:
             raise NoXPathError("XPath not exists")
-        for i, xpath in enumerate(xpaths):
+        result={}
+        for i, xpath in enumerate(domainData['xpaths']):
             result[str(i)]=xpath
+        pc = domainData['price_currency']
+        if isinstance(pc, list):
+            pc = pc[0]
+        result = {
+            'xpath': result,
+            'pc': pc
+        }
         return result
 class ExcelWebRepo(PandasWebRepo):
     def __init__(self, ExcelFileRepo):
