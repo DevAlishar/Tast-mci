@@ -1,31 +1,24 @@
+from lxml import etree
 import json
-from asgiref.sync import sync_to_async
-from exceptions import ScrapException
 
-adump = sync_to_async(json.dumps)
+def extractNode(node):
+    base = node.text
+    for ch in node.getchildren():
+        base += extractNode(ch)
+    return base
 
-class BaseExporter:
-    async def export(self, data):
-        '''
-        data = {
-            "url": ...,
-            "data": {
-                "xpath": ...,
-                "value": ...
-            }
-        }
-        '''
-        raise NotImplementedError()
-
-class JsonExporter:
-    def __init__(self, filePath):
-        self.file = open(filePath, 'w+' , encoding='utf-8' )
-        self.data = []
-    async def export(self, data):
-        self.data.append(data)
-    def close(self):
-        dump = json.dumps(self.data, indent=2, ensure_ascii=False )
-        self.file.write(dump)
-        self.file.close()
-    def __len__(self):
-        return len(self.data)
+async def extract(html, xpath):
+        dom = etree.HTML(html)
+        nodes = dom.xpath(xpath)
+        result = []
+        for node in nodes:
+            if hasattr(node, 'text'):
+                result.append(extractNode(node))
+            else:
+                if isinstance(node, str):
+                    result.append(node)
+                elif isinstance(node, bytes):
+                    result.append(node.decode())
+                else:
+                    result.append(str(node))
+        return result
