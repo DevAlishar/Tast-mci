@@ -1,5 +1,5 @@
 from aiohttp import ClientSession
-from aiohttp.client_exceptions import ClientConnectorError, ConnectionTimeoutError, ClientPayloadError
+from aiohttp.client_exceptions import ClientConnectorError, ConnectionTimeoutError, ClientPayloadError, ClientResponseError
 from asgiref.sync import async_to_sync
 from exceptions import ScrapException
 
@@ -15,7 +15,7 @@ class fetcher:
         }
         try:
             response = await self.session.get(url, headers=headers)
-        except (ClientConnectorError, ConnectionTimeoutError, ClientPayloadError):
+        except (ClientConnectorError, ConnectionTimeoutError, ClientPayloadError, ClientResponseError):
             raise ConnectionError("Connection Failed")
         html = await response.text()
         response.close()
